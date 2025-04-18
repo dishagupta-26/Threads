@@ -1,4 +1,4 @@
-// Name: Ms. Disha Deepak Gupta
+// Name: Disha Deepak Gupta
 // PRN: 24070126513
 // Batch: A2
 
