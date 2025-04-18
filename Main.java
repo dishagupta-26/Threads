@@ -4,12 +4,12 @@
 
 public class Main {
     public static void main(String[] args) {
-        // Creating thread objects
+        // creating thread objects
         Thread t1 = new Thread(new Numbers());
         Thread t2 = new Thread(new Alphabet());
         Thread t3 = new Thread(new EvenOdd());
 
-        // Starting threads
+        // starting threads
         t1.start();
         t2.start();
         t3.start();
